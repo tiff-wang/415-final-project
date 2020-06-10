@@ -12,16 +12,7 @@ A custom trained model of the YOLO v3 deep learning implementation is utilized f
 
 Download the [latest trained weights](https://415.blob.core.windows.net/data/yolo-custom-25000.weights) and place it in the *src/yolo* directory or download directly from a linux terminal.
 
-```
-wget https://415.blob.core.windows.net/data/yolo-custom-25000.weights
-```
-
-Earlier iterations of the weights can be downloaded at the URLs below.
-
-* **5000 Iterations:** [https://415.blob.core.windows.net/data/yolo-custom-5000.weights](https://415.blob.core.windows.net/data/yolo-custom-5000.weights)
-* **10000 Iterations:** [https://415.blob.core.windows.net/data/yolo-custom-10000.weights](https://415.blob.core.windows.net/data/yolo-custom-10000.weights)
-* **15000 Iterations:** [https://415.blob.core.windows.net/data/yolo-custom-15000.weights](https://415.blob.core.windows.net/data/yolo-custom-15000.weights)
-* **20000 Iterations:** [https://415.blob.core.windows.net/data/yolo-custom-20000.weights](https://415.blob.core.windows.net/data/yolo-custom-20000.weights)
+**NOTE: the trained weights are deleted.**
 
 #### MIO-TCD Data
 
